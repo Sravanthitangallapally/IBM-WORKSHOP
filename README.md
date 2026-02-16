@@ -24,6 +24,7 @@ This project was built using Canva AI for designing and presenting the interface
 
 Methodology
 
+
 The system takes a resume as input and extracts its text using OCR and text-processing techniques. The extracted content is analyzed using AI and NLP methods and compared with relevant job-related keywords. Based on this analysis, the system generates an ATS score, identifies missing skills, and provides suggestions along with useful online resources.
 
 Output / Results
